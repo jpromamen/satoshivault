@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+"build:deaddrop": "npx asc src/deaddrop/index.ts --config asconfig.json --target deaddrop"
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
